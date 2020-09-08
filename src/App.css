@@ -1,10 +1,16 @@
-.App {
-  text-align: center;
-}
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.app-head{
+ text-align: center;
+ background-color: lightgray;
+font-size: 50px;
+color: yellow;
+border:3px solid goldenrod;
+padding:5px
 }
 
 @media (prefers-reduced-motion: no-preference) {
